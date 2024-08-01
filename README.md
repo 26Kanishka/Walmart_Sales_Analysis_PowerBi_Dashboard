@@ -29,3 +29,6 @@ Key Objectives-:
 4. Evaluating customer behavior and segmentation.
 
 5. Monitoring Key Performance Indicators (KPIs) to inform business strategies
+
+   ![power bi db 1](https://github.com/user-attachments/assets/458af834-b098-46ba-aa2c-c1846f7c0675)
+
